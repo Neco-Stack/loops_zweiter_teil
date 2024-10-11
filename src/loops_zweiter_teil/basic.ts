@@ -1,6 +1,6 @@
 console.log("neco");
 let counter: number = 0; 
-// initialise a new variable with the value 0 
+// initialisiere eine neue variable mit dem wert 0
 while (counter < 10){
     console.log(`Hallo World ${counter}`);
     // `der temnpleate string ermöglicht es den Wert von counter direkt in den string einzufügen
